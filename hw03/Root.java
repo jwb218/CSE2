@@ -4,6 +4,8 @@
 // HW03
 //Program 2 - Root
 
+//this program takes an input and creates a crude guess for its cube root
+
 import java.util.Scanner; //this program contains a scanner
     public class Root { //create the class
         public static void main(String [] args) { //create the method
