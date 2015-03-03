@@ -67,6 +67,8 @@ while (counter>=1){ //run while
 
 } //end loop
 
+
+System.out.println("Input accepted:"); //accept input
 System.out.println(+factorial+"!=" +total); //print answer
 
 
